@@ -5,7 +5,7 @@ on:
     tags:
       - '*'
   workflow_dispatch:
-
+ 
 env:
   PACKAGE_NAME: xray-core
   CACHE_DIR: ~/cache
